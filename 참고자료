@@ -1,0 +1,22 @@
+1.node.js 설치
+ -- https://nodejs.org/en/download/
+ -- Windows Installer (.msi)
+ 
+ 2.vue 설치
+ -- npm install -g @vue/cli
+ 
+ 3. vue 서버설치
+ -- cd src
+ -- vue create frontend
+ -- vue3 선택
+ 
+ 4. 서버 실행
+ -- cd frontend
+ -- npm run serve
+ 
+ 5. API 개발
+  -- cd frontend
+  -- npm install --save axios
+ 
+ 6. springBoot 포트설정
+ -Dserver.port=9000
